@@ -1,8 +1,8 @@
-# tweetAnalizer
-Fetching and analizing tweets, data preprocessing, word frequency and sentiment analysis
+# tweetAnalyzer
+Fetching and analyzing tweets, data preprocessing, word frequency and sentiment analysis
 
 
-Analizing tweets
+Analyzing tweets
 
 Content:
 
@@ -25,4 +25,4 @@ compound: 0.9669, neg: 0.0, neu: 0.436, pos: 0.564, "
 
 Word frequency plot:
 
-![alt text](https://github.com/flaciGit/tweetAnalizer/blob/master/img/tweetAnalizer.png)
+![alt text](https://github.com/flaciGit/tweetAnalyzer/blob/master/img/tweetAnalyzer.png)
