@@ -12,7 +12,7 @@ Content:
   
   Preparing dataset
   
-    removal of links, mentions, comments, stopwords, numbers, ect
+    removal of links, mentions, comments, stopwords, numbers, etc...
     
   Creating word frequency plot with matplotlib
   
@@ -21,6 +21,7 @@ Content:
 Sentiment analysis example output:
 
 "Congratulations to the U.S. Women’s Soccer Team on winning the World Cup! Great and exciting play. America is proud of you all!
+
 compound: 0.9669, neg: 0.0, neu: 0.436, pos: 0.564, "
 
 Word frequency plot:
